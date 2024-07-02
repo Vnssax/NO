@@ -1461,3 +1461,5 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.07.02-13.17.04:395][  0]LogPakFile: Initializing PakPlatformFile
 [2024.07.02-13.17.04:397][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2024.07.02-13.18.20:061][  0]LogDerivedDataCache: C:/Users/arnet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.580 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6793 files in 8829 folders with total size 315 MiB.
+[2024.07.02-14.03.16:517][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.02-14.04.30:230][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1

@@ -1509,3 +1509,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.02-13.11.25:525][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2024.07.02-13.12.40:558][  0]LogDerivedDataCache: C:/Users/arnet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.653 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6790 files in 8823 folders with total size 315 MiB.
 [2024.07.02-13.16.07:970][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.02-14.03.16:519][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.02-14.04.30:231][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.02-14.12.41:157][  0]LogDerivedDataCache: C:/Users/arnet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.250 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6793 files in 8829 folders with total size 315 MiB.
